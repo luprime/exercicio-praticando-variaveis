@@ -79,6 +79,7 @@ const john = {
 students[1] = john
 console.log(students.length)
 
+
 /*
     9. Sem rodar o código responda qual é a resposta do código abaixo e porque?
     após sua resposta, rode o código e veja se você acertou.
